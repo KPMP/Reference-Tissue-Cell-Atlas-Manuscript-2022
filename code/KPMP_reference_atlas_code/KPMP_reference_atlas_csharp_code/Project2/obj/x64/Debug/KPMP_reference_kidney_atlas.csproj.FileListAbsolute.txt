@@ -1,0 +1,12 @@
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Accord.dll.config
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Project2.exe.config
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Project2.exe.manifest
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Project2.application
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Project2.exe
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\bin\x64\Debug\Project2.pdb
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\KPMP_reference_kidney_atlas.csproj.AssemblyReference.cache
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\KPMP_reference_kidney_atlas.csproj.CoreCompileInputs.cache
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\Project2.exe.manifest
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\Project2.application
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\Project2.exe
+D:\KPMP_reference_atlas_code\KPMP_reference_atlas_csharp_code\Project2\obj\x64\Debug\Project2.pdb
