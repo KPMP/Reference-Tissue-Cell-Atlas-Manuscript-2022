@@ -1,4 +1,4 @@
-The uploaded was written by the three first authors of our manuscript, Jens Hansen, Rachel Sealfon and Rajasree Menon working for the Ravi Iyengar, Olga Troyanskaya and Matthias Kretzler labs, respectively, and the Kidney Precision Medicine Project. 
+The uploaded code was written by the three first authors of our manuscript, Jens Hansen, Rachel Sealfon and Rajasree Menon working for the Ravi Iyengar, Olga Troyanskaya and Matthias Kretzler labs, respectively, and the Kidney Precision Medicine Project. 
 It is made available under the apache 2 license:
 
 The copyright holders for the code are the authors/funders.
